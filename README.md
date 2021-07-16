@@ -5,7 +5,7 @@
 
 Now I'm working at Observatório Sistema Fiep as a full stack web developer.
 <p align="left">
-  <img src="http://www.fiepr.org.br/observatorios/layout/img/logo_bottom_sistema_fiep.png" style="max-width:100%">
+  <img src="https://paineldemudancasclimaticas.org.br/svgs/obs.svg" style="max-width:100%">
 </p>
 
 ### 🧰 Languages and Tools:
