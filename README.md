@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/gabeluiz?label=Follow&style=social)](https://github.com/gabeluiz)
 
 Now I'm working at Observatório Sistema Fiep as a full stack web developer.
-<p align="center">
+<p align="left">
   <img src="http://www.fiepr.org.br/observatorios/layout/img/logo_bottom_sistema_fiep.png" style="max-width:100%">
 </p>
 
