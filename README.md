@@ -1,4 +1,4 @@
-### 👋 Hi there, I am Gabriel.
+### 👋 Hi there, I am Gabriel Palioqui.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=gabeluiz)
 [![Github](https://img.shields.io/github/followers/gabeluiz?label=Follow&style=social)](https://github.com/gabeluiz)
