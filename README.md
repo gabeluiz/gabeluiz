@@ -30,6 +30,6 @@ I enjoy crafting elegant and user-centric applications, whether it's building re
 
 ## 📫 Let's Connect
 
-Whether it's discussing code, technology trends, or potential collaborations, I'm always open to connecting with like-minded individuals. Feel free to reach out to me here on GitHub or find me on [LinkedIn]([https://www.linkedin.com/in/gabeluiz/]).
+Whether it's discussing code, technology trends, or potential collaborations, I'm always open to connecting with like-minded individuals. Feel free to reach out to me here on GitHub or find me on [LinkedIn](https://www.linkedin.com/in/gabeluiz/).
 
 Let's code, innovate, and build together! 🚀
